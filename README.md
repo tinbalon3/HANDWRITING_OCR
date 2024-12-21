@@ -1,6 +1,6 @@
-Dựa trên tài liệu về đồ án **"Nhận dạng chữ viết tay"**, tôi sẽ tạo một file `README.md` giới thiệu về dự án. Nội dung sẽ bao gồm thông tin tổng quan, mục tiêu, phương pháp nghiên cứu, và hướng dẫn sử dụng.
 
-### Nội dung README.md:
+
+### Content:
 ```markdown
 # Handwriting Recognition using CNN and ResNet
 
