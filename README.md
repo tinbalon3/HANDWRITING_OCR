@@ -1,6 +1,4 @@
-Dưới đây là bản dịch sang tiếng Việt với bố cục rõ ràng và dễ đọc hơn:
 
-```markdown
 # Nhận diện chữ viết tay sử dụng CNN và ResNet
 
 ## Giới thiệu
